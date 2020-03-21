@@ -1,0 +1,12 @@
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+    Semantic HTML is used to organize and describe your HTML code better on the web page. It makes the code a lot clearer. 
+Name two big differences between display: block; and display: inline;.
+    Block elements always start on a new line and take up the whole width of the page. Inline elements do not start on a new line and do not take the whole width of the page. 
+What are the 4 areas of the box model?
+    Content, Padding, Border, and Margin
+While using flexbox, what axis does the following property work on: align-items: center?
+    The cross axis
+Explain why git is valuable to a team of developers.
+    Git allows multiple developers to access a single project and allows them to see every version of the project that has ever existed. 
+
+The end
